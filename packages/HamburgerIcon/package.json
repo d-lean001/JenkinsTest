@@ -1,0 +1,22 @@
+{
+  "name": "@hodrobond/ui-hamburgericon",
+  "version": "1.2.4",
+  "description": "> TODO: description",
+  "author": "Adam Kazberuk <hodrobond@gmail.com>",
+  "homepage": "https://github.com/Hodrobond/BlogComponents/tree/master/packages/hamburger-icon#readme",
+  "license": "ISC",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "directories": {
+    "test": "__tests__"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1",
+    "check-types": "tsc -p ."
+  },
+  "dependencies": {
+    "@types/storybook__addon-knobs": "^5.2.1",
+    "install": "^0.13.0",
+    "npm": "^6.14.7"
+  }
+}
